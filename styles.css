@@ -1,0 +1,30 @@
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#addButton {
+    background-color: #008CBA;
+}
+
+#increaseButton {
+    background-color: #f44336;
+}
+
+#decreaseButton {
+    background-color: #ff9800;
+}
+
+#deleteButton {
+    background-color: #555555;
+}
